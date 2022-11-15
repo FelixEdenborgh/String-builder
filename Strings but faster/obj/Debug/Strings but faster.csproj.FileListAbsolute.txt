@@ -1,0 +1,8 @@
+C:\Users\FelixEdenborgh\Documents\Csharp\string training\Strings but faster\bin\Debug\Strings but faster.exe.config
+C:\Users\FelixEdenborgh\Documents\Csharp\string training\Strings but faster\bin\Debug\Strings but faster.exe
+C:\Users\FelixEdenborgh\Documents\Csharp\string training\Strings but faster\bin\Debug\Strings but faster.pdb
+C:\Users\FelixEdenborgh\Documents\Csharp\string training\Strings but faster\obj\Debug\Strings but faster.csproj.AssemblyReference.cache
+C:\Users\FelixEdenborgh\Documents\Csharp\string training\Strings but faster\obj\Debug\Strings but faster.csproj.SuggestedBindingRedirects.cache
+C:\Users\FelixEdenborgh\Documents\Csharp\string training\Strings but faster\obj\Debug\Strings but faster.csproj.CoreCompileInputs.cache
+C:\Users\FelixEdenborgh\Documents\Csharp\string training\Strings but faster\obj\Debug\Strings but faster.exe
+C:\Users\FelixEdenborgh\Documents\Csharp\string training\Strings but faster\obj\Debug\Strings but faster.pdb
