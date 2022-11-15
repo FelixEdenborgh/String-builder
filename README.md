@@ -10,6 +10,12 @@ namespace Strings_but_faster
     {
         static void Main(string[] args)
         {
+        
+        
+        
+        
+        
+        
             DateTime start = DateTime.Now;
             string test1 = Concatenator('b', 10000);
             DateTime end = DateTime.Now;
